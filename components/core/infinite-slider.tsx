@@ -3,6 +3,7 @@ import { cn } from '@/lib/utils';
 import { useMotionValue, animate, motion } from 'framer-motion';
 import { useState, useEffect } from 'react';
 import useMeasure from 'react-use-measure';
+import { ResizeObserver } from '@juggle/resize-observer'
 
 type InfiniteSliderProps = {
   children: React.ReactNode;
@@ -24,7 +25,7 @@ export function InfiniteSlider({
   className,
 }: InfiniteSliderProps) {
   const [currentDuration, setCurrentDuration] = useState(duration);
-  const [ref, { width, height }] = useMeasure();
+  const [ref, { width, height }] = useMeasure({ polyfill: ResizeObserver });
   const translation = useMotionValue(0);
   const [isTransitioning, setIsTransitioning] = useState(false);
   const [key, setKey] = useState(0);

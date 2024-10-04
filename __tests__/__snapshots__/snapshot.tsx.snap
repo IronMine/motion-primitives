@@ -1,0 +1,1487 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <header
+    class="relative top-0 z-10 bg-white px-6 py-5 dark:border-white/10 dark:bg-zinc-950 lg:z-10 lg:flex lg:h-16 lg:items-center lg:px-8 lg:py-0"
+  >
+    <div
+      class="mx-auto flex w-full items-center justify-between md:max-w-7xl"
+    >
+      <a
+        class="relative flex items-center"
+        href="/"
+      >
+        <div
+          class="text-zinc-950 dark:text-white"
+        >
+          motion-primitives
+        </div>
+        <span
+          class="mb-4 ml-2 select-none rounded-full bg-zinc-800 px-2 py-0.5 text-xs text-zinc-50"
+        >
+          beta
+        </span>
+      </a>
+      <nav
+        class="flex items-center gap-2"
+      >
+        <a
+          class="inline-flex h-9 w-9 items-center justify-center"
+          href="https://twitter.com/Ibelick"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <svg
+            class="h-4 w-4 fill-zinc-950 dark:fill-white"
+            role="img"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title>
+              X
+            </title>
+            <path
+              d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"
+            />
+          </svg>
+        </a>
+        <a
+          class="inline-flex h-9 w-9 items-center justify-center"
+          href="https://github.com/ibelick/motion-primitives"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <svg
+            class="h-4 w-4 fill-zinc-950 dark:fill-white"
+            role="img"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title>
+              GitHub
+            </title>
+            <path
+              d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"
+            />
+          </svg>
+        </a>
+        <button
+          aria-expanded="false"
+          aria-haspopup="menu"
+          aria-label="Toggle theme"
+          class="inline-flex h-9 w-9 items-center justify-center"
+          data-state="closed"
+          id="radix-:r0:"
+          type="button"
+        >
+          <svg
+            class="lucide lucide-moon h-4 w-4"
+            fill="none"
+            height="24"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"
+            />
+          </svg>
+          <span
+            class="sr-only"
+          >
+            Toggle theme
+          </span>
+        </button>
+      </nav>
+    </div>
+  </header>
+  <div
+    class="px-6 py-4 pb-20"
+  >
+    <section
+      class="flex h-full flex-col items-center justify-center pt-20"
+    >
+      <div
+        class="flex w-full max-w-lg flex-col items-center justify-center text-center"
+      >
+        <h1
+          class="relative mb-4 text-4xl font-medium text-zinc-950 dark:text-zinc-50"
+        >
+          Build beautiful animated components
+        </h1>
+        <p
+          class="text-center text-zinc-600 dark:text-zinc-200"
+        >
+          Beautifully designed motions components. Easy copy-paste. Customizable. Open Source. Built for engineers and designers.
+        </p>
+      </div>
+      <div
+        class="flex items-center space-x-4 py-6"
+      >
+        <a
+          href="/docs"
+        >
+          <button
+            class="inline-flex items-center rounded-md px-2.5 py-1.5 text-sm bg-zinc-50 border border-zinc-100 text-zinc-950 hover:bg-zinc-100 dark:bg-zinc-700 dark:hover:bg-zinc-600 dark:text-zinc-50 dark:border-zinc-900"
+          >
+            Explore Docs
+            <svg
+              class="lucide lucide-chevron-right ml-1.5 h-4 w-4"
+              fill="none"
+              height="24"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="m9 18 6-6-6-6"
+              />
+            </svg>
+          </button>
+        </a>
+        <a
+          href="https://github.com/ibelick/motion-primitives"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <button
+            class="inline-flex items-center rounded-md px-2.5 py-1.5 text-sm bg-zinc-900 text-white hover:bg-zinc-700 dark:bg-zinc-100 dark:hover:bg-zinc-300 dark:text-zinc-950"
+          >
+            <svg
+              class="mr-1.5 h-4 w-4 fill-white dark:fill-zinc-950"
+              role="img"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <title>
+                GitHub
+              </title>
+              <path
+                d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"
+              />
+            </svg>
+            Star on GitHub
+          </button>
+        </a>
+      </div>
+      <span
+        class="mt-2 text-center text-sm text-zinc-500 dark:text-zinc-400"
+      >
+        Free updates and new components released regularly.
+      </span>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none"
+        >
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <div
+              aria-controls="dialog-content-:r2:"
+              aria-expanded="false"
+              aria-haspopup="dialog"
+              class="relative cursor-pointer flex max-w-[270px] flex-col overflow-hidden border border-zinc-950/10 bg-white dark:border-zinc-50/10 dark:bg-zinc-900"
+              role="button"
+              style="border-radius: 12px;"
+            >
+              <img
+                alt="A desk lamp designed by Edouard Wilfrid Buquet in 1925. It features a double-arm design and is made from nickel-plated brass, aluminium and varnished wood."
+                class="h-48 w-full object-cover"
+                src="/eb-27-lamp-edouard-wilfrid-buquet.jpg"
+              />
+              <div
+                class="flex flex-grow flex-row items-end justify-between p-2"
+              >
+                <div>
+                  <div
+                    class="text-zinc-950 dark:text-zinc-50"
+                  >
+                    EB27
+                  </div>
+                  <div
+                    class="text-zinc-700 dark:text-zinc-400"
+                  >
+                    Edouard Wilfrid Buquet
+                  </div>
+                </div>
+                <button
+                  aria-label="Open dialog"
+                  class="relative ml-1 flex h-6 w-6 shrink-0 scale-100 select-none appearance-none items-center justify-center rounded-lg border border-zinc-950/10 text-zinc-500 transition-colors hover:bg-zinc-100 hover:text-zinc-800 focus-visible:ring-2 active:scale-[0.98] dark:border-zinc-50/10 dark:bg-zinc-900 dark:text-zinc-500 dark:hover:bg-zinc-800 dark:hover:text-zinc-50 dark:focus-visible:ring-zinc-500"
+                  type="button"
+                >
+                  <svg
+                    class="lucide lucide-plus"
+                    fill="none"
+                    height="12"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    viewBox="0 0 24 24"
+                    width="12"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M5 12h14"
+                    />
+                    <path
+                      d="M12 5v14"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none"
+        >
+          <div
+            class="absolute right-4 top-3 cursor-pointer"
+          >
+            <svg
+              class="lucide lucide-rotate-cw h-4 w-4 text-zinc-500"
+              fill="none"
+              height="24"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8"
+              />
+              <path
+                d="M21 3v5h-5"
+              />
+            </svg>
+          </div>
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <div
+              class="grid grid-cols-2 gap-4 p-8 md:grid-cols-3 lg:grid-cols-4"
+              style="opacity: 0; will-change: opacity;"
+            >
+              <div
+                style="opacity: 0; will-change: opacity,transform; transform: scale(0.8);"
+              >
+                <img
+                  alt="impressionist painting, uploaded to Cosmos"
+                  class="h-auto w-full rounded-[4px]"
+                  src="https://images.beta.cosmos.so/fc6fdd93-552c-47e6-98aa-b8fb3ba070a2?format=jpeg"
+                />
+              </div>
+              <div
+                style="opacity: 0; will-change: opacity,transform; transform: scale(0.8);"
+              >
+                <img
+                  alt="impressionist painting, uploaded to Cosmos"
+                  class="h-auto w-full rounded-[4px]"
+                  src="https://images.beta.cosmos.so/cb674d14-ebd1-4408-bab1-79df895017b6?format=jpeg"
+                />
+              </div>
+              <div
+                style="opacity: 0; will-change: opacity,transform; transform: scale(0.8);"
+              >
+                <img
+                  alt="impressionist painting, uploaded to Cosmos"
+                  class="h-auto w-full rounded-[4px]"
+                  src="https://images.beta.cosmos.so/e5a6c3ed-82ad-4084-9a11-1eccd7bc91aa?format=jpeg"
+                />
+              </div>
+              <div
+                style="opacity: 0; will-change: opacity,transform; transform: scale(0.8);"
+              >
+                <img
+                  alt="impressionist painting, uploaded to Cosmos"
+                  class="h-auto w-full rounded-[4px]"
+                  src="https://images.beta.cosmos.so/4d02a1e7-d1f2-4575-86a9-bed243e59132?format=jpeg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none"
+        >
+          <div
+            class="absolute right-4 top-3 cursor-pointer"
+          >
+            <svg
+              class="lucide lucide-rotate-cw h-4 w-4 text-zinc-500"
+              fill="none"
+              height="24"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8"
+              />
+              <path
+                d="M21 3v5h-5"
+              />
+            </svg>
+          </div>
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <p
+              aria-label="Animate your ideas with motion-primitives"
+              class="whitespace-pre-wrap inline-flex"
+              style="opacity: 0; will-change: opacity;"
+            >
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  A
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  n
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  i
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  m
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  a
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  t
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  e
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                   
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  y
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  o
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  u
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  r
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                   
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  i
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  d
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  e
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  a
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  s
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                   
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  w
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  i
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  t
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  h
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                   
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  m
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  o
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  t
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  i
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  o
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  n
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  -
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  p
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  r
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  i
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  m
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  i
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  t
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  i
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  v
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  e
+                </span>
+              </span>
+              <span
+                class="inline-block whitespace-pre"
+              >
+                <span
+                  aria-hidden="true"
+                  class="inline-block whitespace-pre"
+                  style="opacity: 0; filter: blur(10px) brightness(0%); will-change: opacity,transform,filter; transform: none;"
+                >
+                  s
+                </span>
+              </span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none"
+        >
+          <div
+            class="absolute right-4 top-3 cursor-pointer"
+          >
+            <svg
+              class="lucide lucide-rotate-cw h-4 w-4 text-zinc-500"
+              fill="none"
+              height="24"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8"
+              />
+              <path
+                d="M21 3v5h-5"
+              />
+            </svg>
+          </div>
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <div
+              class="h-full w-full overflow-auto"
+            >
+              <div
+                class="mb-20 py-12 text-center text-sm"
+              >
+                Scroll down
+              </div>
+              <div
+                class="flex h-[1200px] items-end justify-center pb-12"
+              >
+                <div
+                  style="opacity: 0; will-change: opacity;"
+                >
+                  <div
+                    class="columns-2 gap-4 px-8 sm:columns-3"
+                  >
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:0"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/e5ebb6f8-8202-40ec-bc70-976f81153501?format=jpeg"
+                      />
+                    </div>
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:1"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/1b6f1bee-1b4c-4035-9e93-c93ef4d445e1?format=jpeg"
+                      />
+                    </div>
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:2"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/9968a6cf-d7f6-4ec9-a56d-ac4eef3f8689?format=jpeg"
+                      />
+                    </div>
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:3"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/4b88a39c-c657-4911-b843-b473237e83b5?format=jpeg"
+                      />
+                    </div>
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:4"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/86af92c0-064d-4801-b7ed-232535b03328?format=jpeg"
+                      />
+                    </div>
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:5"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/399e2a4a-e118-4aaf-9c7e-155ed18f6556?format=jpeg"
+                      />
+                    </div>
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:6"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/6ff16bc9-dc94-4549-a057-673a603ce203?format=jpeg"
+                      />
+                    </div>
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:7"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/d67c3185-4480-4408-8f9d-1cbf541e5d91?format=jpeg"
+                      />
+                    </div>
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:8"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/a7b19274-3370-4080-b734-e8ac268d8c8e.?format=jpeg"
+                      />
+                    </div>
+                    <div
+                      class="mb-4"
+                      style="opacity: 0; filter: blur(10px); will-change: opacity,transform,filter; transform: scale(0.8);"
+                    >
+                      <img
+                        alt="Image placeholder from cosmos.so, index:9"
+                        class="size-full rounded-lg object-contain"
+                        src="https://images.beta.cosmos.so/551daf0d-77e8-472c-9324-468fed15a0ba?format=jpeg"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none px-0"
+        >
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <div
+              class="overflow-hidden"
+            >
+              <div
+                class="flex w-max"
+                style="gap: 24px; flex-direction: row; transform: none;"
+              >
+                <img
+                  alt="Dean blunt - Black Metal 2"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e02ad24c5e36ddcd1957ad35677"
+                />
+                <img
+                  alt="Jungle Jack - JUNGLE DES ILLUSIONS VOL 2"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e02af73f776b92d4614152fb141"
+                />
+                <img
+                  alt="Yung Lean - Stardust"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e02ecdb8f824367a53468100faf"
+                />
+                <img
+                  alt="Lana Del Rey - Ultraviolence"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e021624590458126fc8b8c64c2f"
+                />
+                <img
+                  alt="A$AP Rocky - Tailor Swif"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e020dcf0f3680cff56fe5ff2288"
+                />
+                <img
+                  alt="Midnight Miami (feat Konvy) - Nino Paid, Konvy"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e02bc1028b7e9cd2b17c770a520"
+                />
+                <img
+                  alt="Dean blunt - Black Metal 2"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e02ad24c5e36ddcd1957ad35677"
+                />
+                <img
+                  alt="Jungle Jack - JUNGLE DES ILLUSIONS VOL 2"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e02af73f776b92d4614152fb141"
+                />
+                <img
+                  alt="Yung Lean - Stardust"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e02ecdb8f824367a53468100faf"
+                />
+                <img
+                  alt="Lana Del Rey - Ultraviolence"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e021624590458126fc8b8c64c2f"
+                />
+                <img
+                  alt="A$AP Rocky - Tailor Swif"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e020dcf0f3680cff56fe5ff2288"
+                />
+                <img
+                  alt="Midnight Miami (feat Konvy) - Nino Paid, Konvy"
+                  class="aspect-square w-[120px] rounded-[4px]"
+                  src="https://i.scdn.co/image/ab67616d00001e02bc1028b7e9cd2b17c770a520"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none"
+        >
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <div
+              class="flex h-[400px] w-full items-center justify-center"
+            >
+              <div
+                class="pointer-events-none fixed left-0 top-0 z-50"
+                style="transform: translateX(512px) translateY(384px) translateX(-50%) translateY(-50%);"
+              />
+              <div>
+                <img
+                  alt="Olympic logo Paris 2024"
+                  class="h-52 w-full max-w-48 rounded-[8px] border border-zinc-100 object-cover"
+                  src="https://i.pinimg.com/564x/75/3c/3f/753c3f1a9f85871ffa7a7a78bcf49f66.jpg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none"
+        >
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <div
+              class="relative w-full px-4"
+            >
+              <div
+                class="group/hover relative"
+              >
+                <div
+                  class="overflow-hidden"
+                >
+                  <div
+                    class="flex items-center cursor-grab active:cursor-grabbing -ml-4"
+                    draggable="false"
+                    style="will-change: transform; transform: none; user-select: none;"
+                  >
+                    <div
+                      class="w-full min-w-0 shrink-0 grow-0 overflow-hidden basis-1/3 pl-4"
+                    >
+                      <div
+                        class="flex aspect-square items-center justify-center border border-zinc-200 dark:border-zinc-800"
+                      >
+                        1
+                      </div>
+                    </div>
+                    <div
+                      class="w-full min-w-0 shrink-0 grow-0 overflow-hidden basis-1/3 pl-4"
+                    >
+                      <div
+                        class="flex aspect-square items-center justify-center border border-zinc-200 dark:border-zinc-800"
+                      >
+                        2
+                      </div>
+                    </div>
+                    <div
+                      class="w-full min-w-0 shrink-0 grow-0 overflow-hidden basis-1/3 pl-4"
+                    >
+                      <div
+                        class="flex aspect-square items-center justify-center border border-zinc-200 dark:border-zinc-800"
+                      >
+                        3
+                      </div>
+                    </div>
+                    <div
+                      class="w-full min-w-0 shrink-0 grow-0 overflow-hidden basis-1/3 pl-4"
+                    >
+                      <div
+                        class="flex aspect-square items-center justify-center border border-zinc-200 dark:border-zinc-800"
+                      >
+                        4
+                      </div>
+                    </div>
+                    <div
+                      class="w-full min-w-0 shrink-0 grow-0 overflow-hidden basis-1/3 pl-4"
+                    >
+                      <div
+                        class="flex aspect-square items-center justify-center border border-zinc-200 dark:border-zinc-800"
+                      >
+                        5
+                      </div>
+                    </div>
+                    <div
+                      class="w-full min-w-0 shrink-0 grow-0 overflow-hidden basis-1/3 pl-4"
+                    >
+                      <div
+                        class="flex aspect-square items-center justify-center border border-zinc-200 dark:border-zinc-800"
+                      >
+                        6
+                      </div>
+                    </div>
+                    <div
+                      class="w-full min-w-0 shrink-0 grow-0 overflow-hidden basis-1/3 pl-4"
+                    >
+                      <div
+                        class="flex aspect-square items-center justify-center border border-zinc-200 dark:border-zinc-800"
+                      >
+                        7
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="pointer-events-none flex -translate-y-1/2 px-2 absolute -bottom-20 left-auto top-auto w-full justify-end gap-2"
+                  >
+                    <button
+                      class="pointer-events-auto h-fit w-fit rounded-full p-2 transition-opacity duration-300 opacity-100 disabled:opacity-40 bg-zinc-800 *:stroke-zinc-50 dark:bg-zinc-200 dark:*:stroke-zinc-800"
+                      disabled=""
+                      type="button"
+                    >
+                      <svg
+                        class="lucide lucide-chevron-left stroke-zinc-600 dark:stroke-zinc-50"
+                        fill="none"
+                        height="16"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="m15 18-6-6 6-6"
+                        />
+                      </svg>
+                    </button>
+                    <button
+                      class="pointer-events-auto h-fit w-fit rounded-full p-2 transition-opacity duration-300 opacity-100 disabled:opacity-40 bg-zinc-800 *:stroke-zinc-50 dark:bg-zinc-200 dark:*:stroke-zinc-800"
+                      type="button"
+                    >
+                      <svg
+                        class="lucide lucide-chevron-right stroke-zinc-600 dark:stroke-zinc-50"
+                        fill="none"
+                        height="16"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="16"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="m9 18 6-6-6-6"
+                        />
+                      </svg>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none"
+        >
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <div
+              class="relative flex items-center justify-center"
+            >
+              <button
+                class="flex h-9 items-center border border-zinc-950/10 bg-white px-3 text-zinc-950 dark:border-zinc-50/10 dark:bg-zinc-700 dark:text-zinc-50"
+                style="border-radius: 8px;"
+              >
+                <span
+                  class="text-sm"
+                >
+                  Add Note
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none"
+        >
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <div
+              class="absolute bottom-8"
+            >
+              <div
+                class="h-full w-full rounded-xl border border-zinc-950/10 bg-white"
+              >
+                <div
+                  style="width: 98px;"
+                >
+                  <div
+                    class="overflow-hidden p-2"
+                  >
+                    <div
+                      class="flex space-x-2"
+                    >
+                      <button
+                        aria-label="User profile"
+                        class="relative flex h-9 w-9 shrink-0 scale-100 select-none appearance-none items-center justify-center rounded-lg text-zinc-500 transition-colors hover:bg-zinc-100 hover:text-zinc-800 focus-visible:ring-2 active:scale-[0.98] disabled:pointer-events-none disabled:opacity-50"
+                        disabled=""
+                        type="button"
+                      >
+                        <svg
+                          class="lucide lucide-user h-5 w-5"
+                          fill="none"
+                          height="24"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="2"
+                          viewBox="0 0 24 24"
+                          width="24"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <path
+                            d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"
+                          />
+                          <circle
+                            cx="12"
+                            cy="7"
+                            r="4"
+                          />
+                        </svg>
+                      </button>
+                      <button
+                        aria-label="Search notes"
+                        class="relative flex h-9 w-9 shrink-0 scale-100 select-none appearance-none items-center justify-center rounded-lg text-zinc-500 transition-colors hover:bg-zinc-100 hover:text-zinc-800 focus-visible:ring-2 active:scale-[0.98] disabled:pointer-events-none disabled:opacity-50"
+                        type="button"
+                      >
+                        <svg
+                          class="lucide lucide-search h-5 w-5"
+                          fill="none"
+                          height="24"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="2"
+                          viewBox="0 0 24 24"
+                          width="24"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <circle
+                            cx="11"
+                            cy="11"
+                            r="8"
+                          />
+                          <path
+                            d="m21 21-4.3-4.3"
+                          />
+                        </svg>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="mx-auto max-w-3xl py-32"
+    >
+      <div
+        class="relative -mx-6 sm:mx-0"
+      >
+        <div
+          class="pointer-events-none absolute left-0 top-[-100px] z-[-1] h-full w-full bg-[radial-gradient(100%_100%_at_50%_50%,hsl(0deg_0%_100%/8%)_0,hsl(0deg_0%_100%/2%)_50%)] blur-2xl md:left-[-100px] md:h-[calc(100%+200px)] md:w-[calc(100%+200px)]"
+        />
+        <div
+          class="relative w-full overflow-hidden rounded-xl bg-zinc-50 p-4 shadow-[0px_0px_0px_1px_theme(colors.zinc.100),0px_2px_2px_0px_theme(colors.zinc.50)] dark:border dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-none"
+        >
+          <div
+            class="flex h-[350px] items-center justify-center"
+          >
+            <div
+              class="rounded-[8px] bg-gray-100 p-[2px] dark:bg-zinc-800"
+            >
+              <button
+                aria-selected="true"
+                class="relative inline-flex w-20 items-center justify-center text-center text-zinc-800 transition-transform active:scale-[0.98] dark:text-zinc-50"
+                data-checked="true"
+                data-id="Day"
+                type="button"
+              >
+                <div
+                  class="absolute inset-0 rounded-lg bg-white dark:bg-zinc-700"
+                  style="opacity: 1; will-change: opacity;"
+                />
+                <span
+                  class="z-10"
+                >
+                  Day
+                </span>
+              </button>
+              <button
+                aria-selected="false"
+                class="relative inline-flex w-20 items-center justify-center text-center text-zinc-800 transition-transform active:scale-[0.98] dark:text-zinc-50"
+                data-checked="false"
+                data-id="Week"
+                type="button"
+              >
+                <span
+                  class="z-10"
+                >
+                  Week
+                </span>
+              </button>
+              <button
+                aria-selected="false"
+                class="relative inline-flex w-20 items-center justify-center text-center text-zinc-800 transition-transform active:scale-[0.98] dark:text-zinc-50"
+                data-checked="false"
+                data-id="Month"
+                type="button"
+              >
+                <span
+                  class="z-10"
+                >
+                  Month
+                </span>
+              </button>
+              <button
+                aria-selected="false"
+                class="relative inline-flex w-20 items-center justify-center text-center text-zinc-800 transition-transform active:scale-[0.98] dark:text-zinc-50"
+                data-checked="false"
+                data-id="Year"
+                type="button"
+              >
+                <span
+                  class="z-10"
+                >
+                  Year
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div
+      class="text-center text-sm text-zinc-500 dark:text-zinc-400"
+    >
+      <a
+        href="/docs"
+      >
+        and more...
+      </a>
+    </div>
+  </div>
+</div>
+`;
